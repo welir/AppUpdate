@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="update_lib_network_not_available">Сеть не доступна</string>	
+
+	<!--DownLoadDialog-->
+	<string name="update_lib_download_cancel">Загрузка отменена</string>
+	<string name="update_lib_download_in_background">Обновление в фоновом режиме</string>
+	<string name="update_lib_download_finish">Загрузка завершена</string>	
+	<string name="update_lib_download_failed">Ошибка загрузки</string>
+	<string name="update_lib_file_download_format">Скачивание （%1$s/%2$s）</string>
+	
+	<!--UpdateDialog-->
+	<string name="update_lib_update_content">Изменения：</string>
+	<string name="update_lib_version_code">Номер версии：</string>
+	<string name="update_lib_update">Обновить</string>
+	<string name="update_lib_cancel">Отмена</string>
+    <string name="update_lib_default_toast">Используется последняя версия</string>
+    <string name="update_lib_dialog_title">Доступно обновление</string>
+
+	
+	<!--DownLoadService-->
+    <string name="update_lib_file_downloading"> скачивание…</string>
+	<string name="update_lib_file_download">Загрузка файла</string>
+	 
+	<!--fragment_download.xml-->
+	<string name="update_lib_file_download_text">Загрузка</string>
+	<string name="update_lib_stop_download">Отменить</string>
+    <string name="update_lib_background_download">Загрузка в фоне</string>
+</resources>
